@@ -234,7 +234,7 @@ work 👇:
   <div class="position-relative kv-content">
     <div class="kv-control-placeholder kv-_section" data-kv-control="content">
   </div> <div class="kv-ee-section kv-ee-section--lg"><div class="kv-ee-container"><div class="kv-ee-row"><div class="kv-ee-section-text kv-ee-col-12 kv-ee-mb-5 kv-ee-align-center"> <h2 class="kv-ee-section-title kv-ee-section-title--md" data-type="text" tabindex="0">Lista de espera.<span data-prop="title" class="ck-editable-element" data-editable="basic" style="display:none;"></span></h2>  <p class="kv-ee-section-description kv-ee-body--md" data-type="text" tabindex="0">¿Tienes un negocio/establecimiento? Queremos que seas parte de la gran inauguración. Nuestro plan de juego te beneficiará y hará de tu plaza un gran centro de experiencias. APLICA AHORA nos pondremos en contacto contigo!<span data-prop="description" class="ck-editable-element" data-editable="basic" style="display:none;"></span></p> </div><div class="kv-ee-col-12"> 
-    <div data-type="countdown" data-property="datetime" class="kv-ee-countdown-wrapper kv-ee-row " data-value="Sat Jun 15 2024 14:00:05 GMT-0500 (hora estándar de Colombia)" aria-label="Countdown to Sat Jun 15 2024 14:00:05 GMT-0500 (hora estándar de Colombia)" role="timer">
+    <div data-type="countdown" data-property="datetime" class="kv-ee-countdown-wrapper kv-ee-row " data-value="Sat Jun 15 2024 14:00:05 GMT-0500 (hora estándar de Colombia)" aria-label="Countdown to Sat Jun 15 2025 14:00:05 GMT-0500 (hora estándar de Colombia)" role="timer">
       <div class="kv-ee-col-6 kv-ee-col-md-3 kv-ee-countdown-days">
         <span class="kv-ee-countdown-unit">0</span>
         <span class="kv-ee-countdown-label">Days</span>
